@@ -9,7 +9,7 @@
 *.log.*
 *.sig
 *.csv
-.ipynb_checkpoints
+*.ipynb_checkpoints
 
 pkg/
 src/
